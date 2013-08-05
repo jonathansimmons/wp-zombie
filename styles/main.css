@@ -75,7 +75,7 @@ a img { border: none; }
 	
 	.clear { clear: both; }
 	.left { float: left; }
-	.right { float; right; }
+	.right { float: right; }
 	
 	.alignleft { float: left; }
 	.alignright { float: right; }
